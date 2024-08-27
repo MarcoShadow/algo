@@ -1,2 +1,2 @@
-# algo
-algorithm
+# dsa
+data structure and algorithms
